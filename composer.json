@@ -1,0 +1,11 @@
+{
+  "autoload":{
+    "classmap":[
+      "./"
+    ]
+  },
+  "require": {
+    "cache/apc-adapter": "^1.0",
+    "phpmailer/phpmailer": "^6.0"
+  }
+}
